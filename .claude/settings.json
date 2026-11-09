@@ -1,0 +1,17 @@
+{
+  "enabledPlugins": {
+    "pixel-art@melodic-software": true
+  },
+  "extraKnownMarketplaces": {
+    "melodic-software": {
+      "source": {
+        "source": "github",
+        "repo": "melodic-software/claude-code-plugins",
+        "sparsePaths": [
+          ".claude-plugin",
+          "plugins/pixel-art"
+        ]
+      }
+    }
+  }
+}
